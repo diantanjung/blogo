@@ -13,8 +13,8 @@ An simple personal blog application for author to write articles. This is exampl
 
 
 ### List service
--[x] User service
--[ ] Article service
+- [x] User service
+- [ ] Article service
 
 ### Tools and library
 - All libraries listed in [`go.mod`]
